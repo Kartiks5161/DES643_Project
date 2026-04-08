@@ -4,3 +4,7 @@ Obj/
 Build/
 Logs/
 UserSettings/
+Build/
+build/
+*.apk
+DES643_230541_BackUpThisFolder_ButDontShipItWithYourGame/
