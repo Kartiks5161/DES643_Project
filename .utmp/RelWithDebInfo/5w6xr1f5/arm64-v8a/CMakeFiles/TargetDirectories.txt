@@ -1,0 +1,5 @@
+C:/Users/karti/DES643_Project/.utmp/RelWithDebInfo/5w6xr1f5/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/karti/DES643_Project/.utmp/RelWithDebInfo/5w6xr1f5/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/karti/DES643_Project/.utmp/RelWithDebInfo/5w6xr1f5/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/karti/DES643_Project/.utmp/RelWithDebInfo/5w6xr1f5/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/karti/DES643_Project/.utmp/RelWithDebInfo/5w6xr1f5/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
