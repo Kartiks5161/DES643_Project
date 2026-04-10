@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\Orbit_Line_Animator.cs" />
     <Compile Include="Assets\Starfield Skybox\Demo\Script\LookCamera.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
+    <Compile Include="Assets\Neptune_assets\Rain_Canopy_Follow.cs" />
     <Compile Include="Assets\Scripts\Panel_Script.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
     <Compile Include="Assets\Scripts\Gyroscope.cs" />

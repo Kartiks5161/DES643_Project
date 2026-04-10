@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\karti\\DES643_Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|c:\\users\\karti\\des643_project\\assets\\neptune_assets\\rain_canopy_follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|solutionrelative:assets\\neptune_assets\\rain_canopy_follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karti\\DES643_Project\\Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Unlit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Unlit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|c:\\users\\karti\\des643_project\\assets\\saturn_assets\\cloud_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|C:\\Users\\karti\\DES643_Project\\assets\\saturn_assets\\cloud_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|solutionrelative:assets\\saturn_assets\\cloud_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -71,6 +75,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Rain_Canopy_Follow.cs",
+              "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Assets\\Neptune_assets\\Rain_Canopy_Follow.cs",
+              "RelativeDocumentMoniker": "Assets\\Neptune_assets\\Rain_Canopy_Follow.cs",
+              "ToolTip": "C:\\Users\\karti\\DES643_Project\\Assets\\Neptune_assets\\Rain_Canopy_Follow.cs",
+              "RelativeToolTip": "Assets\\Neptune_assets\\Rain_Canopy_Follow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T09:19:33.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Unlit.shader",
               "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Unlit.shader",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Unlit.shader",
@@ -83,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Cloud_Movement.cs",
               "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Assets\\Saturn_assets\\Cloud_Movement.cs",
               "RelativeDocumentMoniker": "Assets\\Saturn_assets\\Cloud_Movement.cs",
@@ -91,12 +108,11 @@
               "RelativeToolTip": "Assets\\Saturn_assets\\Cloud_Movement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T09:31:14.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T09:31:14.039Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TerrainLit.shader",
               "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Terrain\\TerrainLit.shader",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Terrain\\TerrainLit.shader",
@@ -108,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Lit.shader",
               "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Lit.shader",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Lit.shader",
@@ -120,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Orbit_Line_Animator.cs",
               "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Orbit_Line_Animator.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Orbit_Line_Animator.cs",
@@ -132,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Binary_Star_Orbit.cs",
               "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Binary_Star_Orbit.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Binary_Star_Orbit.cs",
@@ -144,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Orbit_Path.cs",
               "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Orbit_Path.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Orbit_Path.cs",
@@ -156,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Orbit_Script.cs",
               "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Orbit_Script.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Orbit_Script.cs",
@@ -168,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "WASD_Movement.cs",
               "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\WASD_Movement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WASD_Movement.cs",
@@ -180,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Movement.cs",
               "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Movement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Movement.cs",
@@ -192,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Gyroscope.cs",
               "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Gyroscope.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Gyroscope.cs",
@@ -204,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Planet_Highlight.cs",
               "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Planet_Highlight.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Planet_Highlight.cs",
@@ -216,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Panel_Click_Script.cs",
               "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Panel_Click_Script.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Panel_Click_Script.cs",
@@ -228,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Panel_Script.cs",
               "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Panel_Script.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Panel_Script.cs",
