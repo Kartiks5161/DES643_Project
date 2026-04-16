@@ -1,66 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\",
+  "WorkspaceRootPath": "C:\\Users\\karti\\DES643_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Terrain\\TerrainLit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Terrain\\TerrainLit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|c:\\users\\karti\\des643_project\\assets\\neptune_assets\\pc_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|solutionrelative:assets\\neptune_assets\\pc_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\assets\\neptune_assets\\rain_canopy_follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|solutionrelative:assets\\neptune_assets\\rain_canopy_follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Unlit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Unlit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\assets\\saturn_assets\\cloud_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|solutionrelative:assets\\saturn_assets\\cloud_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\assets\\scripts\\orbit_path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\orbit_path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\assets\\scripts\\binary_star_orbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\binary_star_orbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\assets\\scripts\\orbit_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\orbit_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\assets\\scripts\\orbit_line_animator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\orbit_line_animator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\assets\\scripts\\planet_highlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planet_highlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\assets\\scripts\\panel_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|c:\\users\\karti\\des643_project\\assets\\scripts\\panel_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\panel_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\assets\\scripts\\panel_click_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|C:\\Users\\karti\\DES643_Project\\assets\\scripts\\panel_click_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\panel_click_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\assets\\scripts\\wasd_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wasd_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|C:\\Users\\karti\\DES643_Project\\assets\\scripts\\orbit_line_animator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\orbit_line_animator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|C:\\Users\\karti\\DES643_Project\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\assets\\scripts\\gyroscope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|C:\\Users\\karti\\DES643_Project\\assets\\scripts\\gyroscope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gyroscope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|C:\\Users\\karti\\DES643_Project\\assets\\scripts\\planet_highlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planet_highlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|C:\\Users\\karti\\DES643_Project\\assets\\scripts\\orbit_path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\orbit_path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|C:\\Users\\karti\\DES643_Project\\assets\\scripts\\binary_star_orbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\binary_star_orbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|C:\\Users\\karti\\DES643_Project\\assets\\scripts\\orbit_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\orbit_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|C:\\Users\\karti\\DES643_Project\\assets\\scripts\\wasd_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1161A96-C027-B9FB-DAB8-BF66C95CEAC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wasd_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,88 +54,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Rain_Canopy_Follow.cs",
-              "DocumentMoniker": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Assets\\Neptune_assets\\Rain_Canopy_Follow.cs",
-              "RelativeDocumentMoniker": "Assets\\Neptune_assets\\Rain_Canopy_Follow.cs",
-              "ToolTip": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Assets\\Neptune_assets\\Rain_Canopy_Follow.cs",
-              "RelativeToolTip": "Assets\\Neptune_assets\\Rain_Canopy_Follow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T09:19:33.39Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Unlit.shader",
-              "DocumentMoniker": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Unlit.shader",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Unlit.shader",
-              "ToolTip": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Unlit.shader",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Unlit.shader",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-04-09T09:43:34.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cloud_Movement.cs",
-              "DocumentMoniker": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Assets\\Saturn_assets\\Cloud_Movement.cs",
-              "RelativeDocumentMoniker": "Assets\\Saturn_assets\\Cloud_Movement.cs",
-              "ToolTip": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Assets\\Saturn_assets\\Cloud_Movement.cs",
-              "RelativeToolTip": "Assets\\Saturn_assets\\Cloud_Movement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Title": "Panel_Click_Script.cs",
+              "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Panel_Click_Script.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Panel_Click_Script.cs",
+              "ToolTip": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Panel_Click_Script.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Panel_Click_Script.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T09:31:14.039Z"
+              "WhenOpened": "2026-03-22T07:28:33.476Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TerrainLit.shader",
-              "DocumentMoniker": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Terrain\\TerrainLit.shader",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Terrain\\TerrainLit.shader",
-              "ToolTip": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Terrain\\TerrainLit.shader",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Terrain\\TerrainLit.shader",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-04-08T21:05:36.199Z",
+              "DocumentIndex": 1,
+              "Title": "Panel_Script.cs",
+              "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Panel_Script.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Panel_Script.cs",
+              "ToolTip": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Panel_Script.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Panel_Script.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T07:26:23.728Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Lit.shader",
-              "DocumentMoniker": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Lit.shader",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Lit.shader",
-              "ToolTip": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Lit.shader",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Lit.shader",
-              "ViewState": "AgIAANEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-04-03T12:07:50.756Z"
+              "DocumentIndex": 0,
+              "Title": "PC_Movement.cs",
+              "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Assets\\Neptune_assets\\PC_Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Neptune_assets\\PC_Movement.cs",
+              "ToolTip": "C:\\Users\\karti\\DES643_Project\\Assets\\Neptune_assets\\PC_Movement.cs",
+              "RelativeToolTip": "Assets\\Neptune_assets\\PC_Movement.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T18:47:22.543Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Orbit_Line_Animator.cs",
-              "DocumentMoniker": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Assets\\Scripts\\Orbit_Line_Animator.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Orbit_Line_Animator.cs",
-              "ToolTip": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Assets\\Scripts\\Orbit_Line_Animator.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Orbit_Line_Animator.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T15:36:08.232Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Binary_Star_Orbit.cs",
-              "DocumentMoniker": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Assets\\Scripts\\Binary_Star_Orbit.cs",
+              "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Binary_Star_Orbit.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Binary_Star_Orbit.cs",
-              "ToolTip": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Assets\\Scripts\\Binary_Star_Orbit.cs",
+              "ToolTip": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Binary_Star_Orbit.cs",
               "RelativeToolTip": "Assets\\Scripts\\Binary_Star_Orbit.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAowCwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -159,11 +110,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Orbit_Path.cs",
-              "DocumentMoniker": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Assets\\Scripts\\Orbit_Path.cs",
+              "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Orbit_Path.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Orbit_Path.cs",
-              "ToolTip": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Assets\\Scripts\\Orbit_Path.cs",
+              "ToolTip": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Orbit_Path.cs",
               "RelativeToolTip": "Assets\\Scripts\\Orbit_Path.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAowDsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -171,11 +122,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Orbit_Script.cs",
-              "DocumentMoniker": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Assets\\Scripts\\Orbit_Script.cs",
+              "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Orbit_Script.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Orbit_Script.cs",
-              "ToolTip": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Assets\\Scripts\\Orbit_Script.cs",
+              "ToolTip": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Orbit_Script.cs",
               "RelativeToolTip": "Assets\\Scripts\\Orbit_Script.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAgwDcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -183,11 +134,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "WASD_Movement.cs",
-              "DocumentMoniker": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Assets\\Scripts\\WASD_Movement.cs",
+              "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\WASD_Movement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WASD_Movement.cs",
-              "ToolTip": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Assets\\Scripts\\WASD_Movement.cs",
+              "ToolTip": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\WASD_Movement.cs",
               "RelativeToolTip": "Assets\\Scripts\\WASD_Movement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -195,11 +146,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
               "Title": "Movement.cs",
-              "DocumentMoniker": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Assets\\Scripts\\Movement.cs",
+              "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Movement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Movement.cs",
-              "ToolTip": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Assets\\Scripts\\Movement.cs",
+              "ToolTip": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Movement.cs",
               "RelativeToolTip": "Assets\\Scripts\\Movement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,23 +158,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "Gyroscope.cs",
-              "DocumentMoniker": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Assets\\Scripts\\Gyroscope.cs",
+              "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Gyroscope.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Gyroscope.cs",
-              "ToolTip": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Assets\\Scripts\\Gyroscope.cs",
+              "ToolTip": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Gyroscope.cs",
               "RelativeToolTip": "Assets\\Scripts\\Gyroscope.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCIAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-22T14:57:47.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Planet_Highlight.cs",
-              "DocumentMoniker": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Assets\\Scripts\\Planet_Highlight.cs",
+              "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Planet_Highlight.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Planet_Highlight.cs",
-              "ToolTip": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Assets\\Scripts\\Planet_Highlight.cs",
+              "ToolTip": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Planet_Highlight.cs",
               "RelativeToolTip": "Assets\\Scripts\\Planet_Highlight.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -231,27 +182,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Panel_Click_Script.cs",
-              "DocumentMoniker": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Assets\\Scripts\\Panel_Click_Script.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Panel_Click_Script.cs",
-              "ToolTip": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Assets\\Scripts\\Panel_Click_Script.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Panel_Click_Script.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Orbit_Line_Animator.cs",
+              "DocumentMoniker": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Orbit_Line_Animator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Orbit_Line_Animator.cs",
+              "ToolTip": "C:\\Users\\karti\\DES643_Project\\Assets\\Scripts\\Orbit_Line_Animator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Orbit_Line_Animator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T07:28:33.476Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Panel_Script.cs",
-              "DocumentMoniker": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Assets\\Scripts\\Panel_Script.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Panel_Script.cs",
-              "ToolTip": "C:\\Users\\ayush\\OneDrive\\Desktop\\DES643_Project\\DES643_Project\\Assets\\Scripts\\Panel_Script.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Panel_Script.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T07:26:23.728Z"
+              "WhenOpened": "2026-03-24T15:36:08.232Z"
             }
           ]
         }
