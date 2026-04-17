@@ -173,6 +173,7 @@ GameObject:
   - component: {fileID: 5950832097979972024}
   - component: {fileID: 7917577221064784344}
   - component: {fileID: 5723066140319389555}
+  - component: {fileID: 6290674828116035175}
   m_Layer: 0
   m_Name: Player_PC
   m_TagString: Untagged
@@ -348,6 +349,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f59f144e66e55394b8d6d78c85c06aed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Crosshair_UI_Clicker
+--- !u!114 &6290674828116035175
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6367575801410611982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b23efd438de7dc469a1be5697c24dba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Holo_Projector
+  summonKey: 116
+  spawnDistance: 2.5
+  terminalPrefab: {fileID: 0}
+  playerCamera: {fileID: 7000725271249628271}
 --- !u!1 &6805294643599529144
 GameObject:
   m_ObjectHideFlags: 0
