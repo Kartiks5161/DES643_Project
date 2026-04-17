@@ -167,6 +167,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5950832097979972024, guid: f0b6f7fa4655aaa439c1e3a8320f3094, type: 3}
+      propertyPath: footstepSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 6e5764b6ec1f8fc4cab9832b6e4333d1, type: 3}
     - target: {fileID: 6367575801410611982, guid: f0b6f7fa4655aaa439c1e3a8320f3094, type: 3}
       propertyPath: m_Name
       value: Player_PC
@@ -206,6 +210,10 @@ PrefabInstance:
     - target: {fileID: 7000725271249628271, guid: f0b6f7fa4655aaa439c1e3a8320f3094, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7917577221064784344, guid: f0b6f7fa4655aaa439c1e3a8320f3094, type: 3}
+      propertyPath: m_Volume
+      value: 0.75
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
