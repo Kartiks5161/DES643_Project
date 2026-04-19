@@ -218,7 +218,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6367575801410611982, guid: f0b6f7fa4655aaa439c1e3a8320f3094, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 254032779}
   m_SourcePrefab: {fileID: 100100000, guid: f0b6f7fa4655aaa439c1e3a8320f3094, type: 3}
 --- !u!1 &159069765
 GameObject:
@@ -362,6 +365,27 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &254032778 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6367575801410611982, guid: f0b6f7fa4655aaa439c1e3a8320f3094, type: 3}
+  m_PrefabInstance: {fileID: 55853997}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &254032779
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 254032778}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0641103006968c40860873f0902ecd0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RestrictMovement
+  minX: -250
+  maxX: 250
+  minZ: -250
+  maxZ: 250
 --- !u!1 &1398523473
 GameObject:
   m_ObjectHideFlags: 0
