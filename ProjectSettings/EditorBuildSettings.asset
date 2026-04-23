@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Neptune_Scene.unity
     guid: fe401a10951e81440b77abdb837d4002
   - enabled: 1
+    path: Assets/Scenes/Venus_terrain.unity
+    guid: aa2f66faa2d3bbb4b9342fea73f6e21e
+  - enabled: 1
     path: Assets/Scenes/Mars_terrain.unity
     guid: 4341dfe4b31feed4ea2887a6cddaec75
   - enabled: 1
